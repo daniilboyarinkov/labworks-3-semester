@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "HkpEmk34D/hB1kDH7dg+T0C9bblJxnTi8XvjXkjRO7gFc5g8upmIOsj1qa+3yIjRMFxj6+9ynOaF3vcSKqSG6w==",
+  "success": true,
+  "projectFilePath": "P:\\C#\\WinFormsView\\WinFormsView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danii\\.nuget\\packages\\zedgraph\\5.1.7\\zedgraph.5.1.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"ZedGraph 5.1.7\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net6.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "ZedGraph",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
