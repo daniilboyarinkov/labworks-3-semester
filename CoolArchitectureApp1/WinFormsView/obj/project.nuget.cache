@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HkpEmk34D/hB1kDH7dg+T0C9bblJxnTi8XvjXkjRO7gFc5g8upmIOsj1qa+3yIjRMFxj6+9ynOaF3vcSKqSG6w==",
+  "dgSpecHash": "68EF5Xfs+XoygxXlrdhS7wr6G14W3VdYkuQJ118c99KgwEVV13DuSX4nwQcpos1KoMYHrljUdB/OLaGuqWaRNw==",
   "success": true,
-  "projectFilePath": "P:\\C#\\WinFormsView\\WinFormsView.csproj",
+  "projectFilePath": "P:\\C#\\CoolArchitectureApp1\\WinFormsView\\WinFormsView.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danii\\.nuget\\packages\\zedgraph\\5.1.7\\zedgraph.5.1.7.nupkg.sha512"
   ],

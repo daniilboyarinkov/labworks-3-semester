@@ -49,11 +49,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\C#\\ConsoleView\\ConsoleView.csproj",
+      "projectUniqueName": "P:\\C#\\CoolArchitectureApp1\\ConsoleView\\ConsoleView.csproj",
       "projectName": "ConsoleView",
-      "projectPath": "P:\\C#\\ConsoleView\\ConsoleView.csproj",
+      "projectPath": "P:\\C#\\CoolArchitectureApp1\\ConsoleView\\ConsoleView.csproj",
       "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
-      "outputPath": "P:\\C#\\ConsoleView\\obj\\",
+      "outputPath": "P:\\C#\\CoolArchitectureApp1\\ConsoleView\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danii\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -70,8 +70,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "P:\\C#\\Business Logic\\Business Logic.csproj": {
-              "projectPath": "P:\\C#\\Business Logic\\Business Logic.csproj"
+            "P:\\C#\\CoolArchitectureApp1\\Business Logic\\Business Logic.csproj": {
+              "projectPath": "P:\\C#\\CoolArchitectureApp1\\Business Logic\\Business Logic.csproj"
             }
           }
         }

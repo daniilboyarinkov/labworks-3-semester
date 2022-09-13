@@ -18,3 +18,23 @@ P:\C#\ConsoleView\obj\Debug\net6.0\refint\ConsoleView.dll
 P:\C#\ConsoleView\obj\Debug\net6.0\ConsoleView.pdb
 P:\C#\ConsoleView\obj\Debug\net6.0\ConsoleView.genruntimeconfig.cache
 P:\C#\ConsoleView\obj\Debug\net6.0\ref\ConsoleView.dll
+P:\C#\CoolArchitectureApp1\ConsoleView\bin\Debug\net6.0\ConsoleView.exe
+P:\C#\CoolArchitectureApp1\ConsoleView\bin\Debug\net6.0\ConsoleView.deps.json
+P:\C#\CoolArchitectureApp1\ConsoleView\bin\Debug\net6.0\ConsoleView.runtimeconfig.json
+P:\C#\CoolArchitectureApp1\ConsoleView\bin\Debug\net6.0\ConsoleView.dll
+P:\C#\CoolArchitectureApp1\ConsoleView\bin\Debug\net6.0\ConsoleView.pdb
+P:\C#\CoolArchitectureApp1\ConsoleView\bin\Debug\net6.0\Business Logic.dll
+P:\C#\CoolArchitectureApp1\ConsoleView\bin\Debug\net6.0\Model.dll
+P:\C#\CoolArchitectureApp1\ConsoleView\bin\Debug\net6.0\Business Logic.pdb
+P:\C#\CoolArchitectureApp1\ConsoleView\bin\Debug\net6.0\Model.pdb
+P:\C#\CoolArchitectureApp1\ConsoleView\obj\Debug\net6.0\ConsoleView.csproj.AssemblyReference.cache
+P:\C#\CoolArchitectureApp1\ConsoleView\obj\Debug\net6.0\ConsoleView.GeneratedMSBuildEditorConfig.editorconfig
+P:\C#\CoolArchitectureApp1\ConsoleView\obj\Debug\net6.0\ConsoleView.AssemblyInfoInputs.cache
+P:\C#\CoolArchitectureApp1\ConsoleView\obj\Debug\net6.0\ConsoleView.AssemblyInfo.cs
+P:\C#\CoolArchitectureApp1\ConsoleView\obj\Debug\net6.0\ConsoleView.csproj.CoreCompileInputs.cache
+P:\C#\CoolArchitectureApp1\ConsoleView\obj\Debug\net6.0\ConsoleView.csproj.CopyComplete
+P:\C#\CoolArchitectureApp1\ConsoleView\obj\Debug\net6.0\ConsoleView.dll
+P:\C#\CoolArchitectureApp1\ConsoleView\obj\Debug\net6.0\refint\ConsoleView.dll
+P:\C#\CoolArchitectureApp1\ConsoleView\obj\Debug\net6.0\ConsoleView.pdb
+P:\C#\CoolArchitectureApp1\ConsoleView\obj\Debug\net6.0\ConsoleView.genruntimeconfig.cache
+P:\C#\CoolArchitectureApp1\ConsoleView\obj\Debug\net6.0\ref\ConsoleView.dll

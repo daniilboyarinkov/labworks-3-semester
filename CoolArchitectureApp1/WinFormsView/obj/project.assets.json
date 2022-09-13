@@ -127,11 +127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\C#\\WinFormsView\\WinFormsView.csproj",
+      "projectUniqueName": "P:\\C#\\CoolArchitectureApp1\\WinFormsView\\WinFormsView.csproj",
       "projectName": "WinFormsView",
-      "projectPath": "P:\\C#\\WinFormsView\\WinFormsView.csproj",
+      "projectPath": "P:\\C#\\CoolArchitectureApp1\\WinFormsView\\WinFormsView.csproj",
       "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
-      "outputPath": "P:\\C#\\WinFormsView\\obj\\",
+      "outputPath": "P:\\C#\\CoolArchitectureApp1\\WinFormsView\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danii\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,8 +148,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "P:\\C#\\Business Logic\\Business Logic.csproj": {
-              "projectPath": "P:\\C#\\Business Logic\\Business Logic.csproj"
+            "P:\\C#\\CoolArchitectureApp1\\Business Logic\\Business Logic.csproj": {
+              "projectPath": "P:\\C#\\CoolArchitectureApp1\\Business Logic\\Business Logic.csproj"
             }
           }
         }
