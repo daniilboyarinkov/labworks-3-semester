@@ -5,11 +5,13 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{EF3B7879-CE32-4F76-9B0A-1DFB7454A825}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business Logic", "..\Business Logic\Business Logic.csproj", "{930342EB-8B0E-477D-9DF6-BBCD04D8F806}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business Logic", "..\Business Logic\Business Logic.csproj", "{930342EB-8B0E-477D-9DF6-BBCD04D8F806}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleView", "..\ConsoleView\ConsoleView.csproj", "{ABAD4C1E-AAB0-43A7-A3C5-69EC0F912246}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleView", "..\ConsoleView\ConsoleView.csproj", "{ABAD4C1E-AAB0-43A7-A3C5-69EC0F912246}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsView", "..\WinFormsView\WinFormsView.csproj", "{FEDA980C-DF46-4BFB-8F64-08FF41B0E14B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsView", "..\WinFormsView\WinFormsView.csproj", "{FEDA980C-DF46-4BFB-8F64-08FF41B0E14B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{FB4BA861-D156-416E-973C-936E2E83356E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{FEDA980C-DF46-4BFB-8F64-08FF41B0E14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEDA980C-DF46-4BFB-8F64-08FF41B0E14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEDA980C-DF46-4BFB-8F64-08FF41B0E14B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB4BA861-D156-416E-973C-936E2E83356E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB4BA861-D156-416E-973C-936E2E83356E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB4BA861-D156-416E-973C-936E2E83356E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB4BA861-D156-416E-973C-936E2E83356E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
