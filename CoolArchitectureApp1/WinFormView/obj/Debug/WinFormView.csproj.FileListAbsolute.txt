@@ -1,0 +1,43 @@
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\WinFormView.exe.config
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\WinFormView.exe
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\WinFormView.pdb
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\Business Logic.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\ZedGraph.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\Model.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\Business Logic.pdb
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\ZedGraph.xml
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\Model.pdb
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\de\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\es\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\fr\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\hu\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\it\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\ja\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\pt\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\ru\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\sk\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\sv\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\tr\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\zh-cn\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\zh-tw\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.csproj.AssemblyReference.cache
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.csproj.SuggestedBindingRedirects.cache
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.Properties.Resources.resources
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.csproj.GenerateResource.cache
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.csproj.CoreCompileInputs.cache
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.csproj.CopyComplete
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.exe
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.pdb
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.Form1.resources
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormsView.Statistic.resources
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\Dapper.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\EntityFramework.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\EntityFramework.SqlServer.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\DataAccessLayer.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\Business Logic.dll.config
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\Model.dll.config
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\Dapper.xml
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\EntityFramework.xml
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\EntityFramework.SqlServer.xml
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\DataAccessLayer.pdb
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\DataAccessLayer.dll.config

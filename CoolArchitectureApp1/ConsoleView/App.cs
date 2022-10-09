@@ -1,15 +1,14 @@
 ﻿using Business_Logic;
+using Model;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace ConsoleView
 {
     public static class App
     {
-        public static readonly Logic BL = new();
-
-        public static void InitApp()
-        {
-            BL.InitStudents();
-        }
+        public static readonly Logic BL = new Logic();
 
         public static void PrintVariants()
         {
@@ -18,7 +17,7 @@ namespace ConsoleView
 
         public static string Stdi(string text)
         {
-            string? step;
+            string step;
 
             Console.Write(text);
             step = Console.ReadLine();
@@ -29,11 +28,12 @@ namespace ConsoleView
 
         public static void PrintAllStudents()
         {
-            int index = 0;
-            Console.WriteLine();
-            BL.Students.ForEach(st => Console.WriteLine(
-                $"id: {index++}\t Имя: {st.Name}\t Специальность: {st.Speciality}\t Группа: {st.Group}\n")
-            );
+            var students = BL.GetAll();
+            foreach (Student st in students)
+            {
+                Console.WriteLine(
+                $"id: {st.Id}\t Имя: {st.Name}\t Специальность: {st.Speciality}\t Группа: {st.Group}\n");
+            }
         }
         public static void AddStudent(string name, string speciality, string group)
         {
@@ -54,9 +54,11 @@ namespace ConsoleView
         }
         public static void DeleteStudent(int id)
         {
-            bool impossible = id < 0 || id >= BL.Students.Count;
+            // bool impossible = id < 0 || id >= BL.GetAll().Count();
+            bool impossible = id < 0;
 
-            if (impossible) {
+            if (impossible)
+            {
                 Console.WriteLine("Введено невозможное значение...");
             }
             else
