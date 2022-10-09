@@ -1,0 +1,20 @@
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\Business Logic\bin\Debug\Business Logic.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\Business Logic\bin\Debug\Business Logic.pdb
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\Business Logic\bin\Debug\Model.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\Business Logic\bin\Debug\Model.pdb
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\Business Logic\obj\Debug\Business Logic.csproj.AssemblyReference.cache
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\Business Logic\obj\Debug\Business Logic.csproj.CoreCompileInputs.cache
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\Business Logic\obj\Debug\Business Logic.csproj.CopyComplete
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\Business Logic\obj\Debug\Business Logic.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\Business Logic\obj\Debug\Business Logic.pdb
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\Business Logic\bin\Debug\Business Logic.dll.config
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\Business Logic\bin\Debug\DataAccessLayer.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\Business Logic\bin\Debug\EntityFramework.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\Business Logic\bin\Debug\EntityFramework.SqlServer.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\Business Logic\bin\Debug\DataAccessLayer.pdb
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\Business Logic\bin\Debug\DataAccessLayer.dll.config
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\Business Logic\bin\Debug\Model.dll.config
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\Business Logic\bin\Debug\EntityFramework.xml
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\Business Logic\bin\Debug\EntityFramework.SqlServer.xml
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\Business Logic\bin\Debug\Dapper.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\Business Logic\bin\Debug\Dapper.xml
