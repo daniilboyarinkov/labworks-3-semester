@@ -12,11 +12,15 @@ namespace DataAccessLayer
 {
     public class DapperRepository<T> : IRepository<T> where T : class, IDomainObject
     {
-        static string connectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=DbConnection;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+        static string connectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=DbConnection;" +
+            "Integrated Security=True;Connect Timeout=30;Encrypt=False;" +
+            "TrustServerCertificate=False;ApplicationIntent=ReadWrite;" +
+            "MultiSubnetFailover=False";
         IDbConnection db = new SqlConnection(connectionString);
         public void Create(T t)
         {
-            var sql = "INSERT INTO Students (Name, [Group], Speciality) VALUES (@Name, @Group, @Speciality); SELECT CAST(SCOPE_IDENTITY() as int)";
+            var sql = "INSERT INTO Students (Name, [Group], Speciality) VALUES (@Name, @Group, @Speciality); " +
+                "SELECT CAST(SCOPE_IDENTITY() as int)";
             int Id = db.Query<int>(sql, t).FirstOrDefault();
             t.Id = Id;
         }

@@ -1,18 +1,22 @@
 ﻿using Business_Logic;
 using Model;
+using Ninject;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 
 namespace ConsoleView
 {
     public static class App
     {
-        public static readonly Logic BL = new Logic();
+        private static readonly IKernel ninjectKernel = new StandardKernel(new SimpleConfigModule());
+        private static readonly Logic BL = ninjectKernel.Get<Logic>();
 
         public static void PrintVariants()
         {
-            Console.WriteLine("1 - посмотреть список студентов\n2 - добавить студента\n3 - удалить студента\n");
+            Console.WriteLine($"{new string('-', 42)}\n{new string('-', 4)}" +
+                $"\t1 - посмотреть список студентов\n{new string('-', 4)}" +
+                $"\t2 - добавить студента\n{new string('-', 4)}" +
+                $"\t3 - удалить студента\n" +
+                $"{new string('-', 42)}\n");
         }
 
         public static string Stdi(string text)

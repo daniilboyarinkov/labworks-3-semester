@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer
 {
-    public class EntityFrameworkRepository<T> : IRepository<T> where T : class
+    public class EntityFrameworkRepository<T> : IRepository<T> where T : class, IDomainObject
     {
         Context context = new Context();
         public void Create(T t)

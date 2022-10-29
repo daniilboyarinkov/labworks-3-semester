@@ -5,6 +5,7 @@ using System.Linq;
 using System.Windows.Forms;
 using System;
 using ZedGraph;
+using Ninject;
 
 namespace WinFormsView
 {
@@ -12,7 +13,8 @@ namespace WinFormsView
     {
         private System.ComponentModel.IContainer components;
         private ZedGraphControl zedGraph;
-        private readonly Logic BL = new Logic();
+        private static readonly IKernel ninjectKernel = new StandardKernel(new SimpleConfigModule());
+        private static readonly Logic BL = ninjectKernel.Get<Logic>();
         private void Statistic_Load_1(object sender, EventArgs e)
         {
             DrawGraph(zedGraph);
@@ -67,7 +69,7 @@ namespace WinFormsView
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            this.zedGraph = new ZedGraph.ZedGraphControl();
+            this.zedGraph = new ZedGraphControl();
             this.SuspendLayout();
             // 
             // zedGraph

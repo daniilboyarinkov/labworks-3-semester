@@ -203,14 +203,14 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.BackColor = System.Drawing.Color.Silver;
             this.ClientSize = new System.Drawing.Size(1183, 776);
             this.Controls.Add(this.StudentBox);
             this.Controls.Add(this.statisticbtn);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.delbtn);
             this.Controls.Add(this.groupBox2);
-            this.ForeColor = System.Drawing.SystemColors.ControlDark;
+            this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.Name = "Form1";
             this.Text = "My Cool App";
             this.Load += new System.EventHandler(this.Form1_Load_1);

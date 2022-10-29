@@ -7,7 +7,7 @@ using Model;
 
 namespace DataAccessLayer
 {
-    public interface IRepository<T> where T : class
+    public interface IRepository<T> where T : class, IDomainObject
     {
         IEnumerable<T> GetAll();
         void Create(T t);
