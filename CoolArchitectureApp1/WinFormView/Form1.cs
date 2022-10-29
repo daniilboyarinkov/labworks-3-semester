@@ -1,8 +1,7 @@
 ﻿using Business_Logic;
-using Model;
+using Ninject;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Drawing;
 using System.Linq;
 using System.Windows.Forms;
@@ -13,11 +12,11 @@ namespace WinFormView
 {
     public partial class Form1 : Form
     {
-        private readonly Logic BL = new Logic();
+        private static readonly IKernel ninjectKernel = new StandardKernel(new SimpleConfigModule());
+        private static readonly Logic BL = ninjectKernel.Get<Logic>();
         public Form1()
         {
             InitializeComponent();
-
             UpdateStudentList();
         }
 

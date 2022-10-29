@@ -27,7 +27,7 @@ namespace ConsoleView
                 }
                 else if (variant == "3")
                 {
-                    Console.Write("Введите индекс студента в списке: ");
+                    Console.Write("Введите Id студента в списке: ");
 
                     // id should be on that scope level. No refactor!
                     int id;
@@ -63,7 +63,6 @@ namespace ConsoleView
                 else
                 {
                     Console.WriteLine("Извините, но такой команды нет.\n Введите существующую команду: ");
-                    App.PrintVariants();
                 }
             }
         }
