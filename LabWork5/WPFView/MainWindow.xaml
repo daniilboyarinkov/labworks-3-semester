@@ -1,0 +1,97 @@
+﻿<Window x:Class="WPFView.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:viewmodel="clr-namespace:ViewModel;assembly=ViewModel" d:DataContext="{d:DesignInstance Type=viewmodel:Logic}"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <UniformGrid Columns="2">
+        <StackPanel>
+        <ListView ItemsSource="{Binding Students}" SelectedItem="{Binding SelectedStudent}" Height="320">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Border 
+                                Padding="20 0" Margin="10" 
+                                BorderBrush="Gray" 
+                                BorderThickness="1" 
+                                CornerRadius="8">
+                            <UniformGrid Columns="3">
+                                <TextBlock Text="{Binding Name}" Margin="5" Padding="5"></TextBlock>
+                                <TextBlock Text="{Binding Speciality}" Margin="5" Padding="5"></TextBlock>
+                                <TextBlock Text="{Binding Group}" Margin="5" Padding="5"></TextBlock>
+                            </UniformGrid>
+                        </Border>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button Command="{Binding DeleteStudent}" 
+                            Content="Удалить" 
+                            Padding="5" 
+                            Margin="40 30 40 0"
+                            Background="Azure"
+                            Height="30">
+            </Button>
+        </StackPanel>
+        <StackPanel>
+            <GroupBox x:Name="SubjectName" Header="Добавить студента" FontWeight="Bold">
+                <StackPanel>
+                    <UniformGrid Columns="2" Margin="10 10 10 0">
+                        <Label>Имя</Label>
+                        <TextBox Text="{Binding NewStudent.Name}"/>
+                    </UniformGrid>
+                    <UniformGrid Columns="2" Margin="10 10 10 0">
+                        <Label>Специализация</Label>
+                        <TextBox Text="{Binding NewStudent.Speciality}"/>
+                    </UniformGrid>
+                    <UniformGrid Columns="2" Margin="10 10 10 0">
+                        <Label>Группа</Label>
+                        <TextBox Text="{Binding NewStudent.Group}"/>
+                    </UniformGrid>
+
+                    <Button Command="{Binding AddStudent}" 
+                                Content="Добавить" 
+                                Padding="5" 
+                                Margin="40 30 40 0"
+                                Background="Azure">
+                    </Button>
+                </StackPanel>
+            </GroupBox>
+            <GroupBox Grid.Row="1"
+                      Header="Отобразить гистограмму"
+                      BorderThickness="3"
+                      Margin="3">
+                <Grid Margin="0,6,0.4,-6">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+                    <TextBlock Text="Распределение студентов по специальностям" TextAlignment="Center" FontSize="16" FontWeight="Medium"/>
+                    <ItemsControl Grid.Row="1" Margin="5" HorizontalAlignment="Center" ItemsSource="{Binding Specialities}">
+                        <ItemsControl.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <StackPanel Orientation="Horizontal"/>
+                            </ItemsPanelTemplate>
+                        </ItemsControl.ItemsPanel>
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="20"/>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="20"/>
+                                    </Grid.RowDefinitions>
+                                    <ProgressBar Grid.Row="1" Width="45" Height="120" Foreground="Violet"  Background="Transparent" BorderThickness="0"
+                                    VerticalAlignment="Bottom"
+                                    Value="{Binding Percent, Mode=OneWay}"
+                                    Orientation="Vertical"/>
+                                    <TextBlock Grid.Row="2" Text="{Binding Name}" TextAlignment="Center" VerticalAlignment="Top"/>
+                                    <TextBlock Text="{Binding Percent, StringFormat={}{0}%}" TextAlignment="Center" VerticalAlignment="Top"/>
+                                </Grid>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                </Grid>
+            </GroupBox>
+        </StackPanel>
+    </UniformGrid>
+</Window>

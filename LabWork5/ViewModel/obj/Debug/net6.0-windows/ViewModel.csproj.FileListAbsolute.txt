@@ -1,0 +1,30 @@
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\ViewModel\bin\Debug\net6.0-windows\ViewModel.deps.json
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\ViewModel\bin\Debug\net6.0-windows\ViewModel.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\ViewModel\bin\Debug\net6.0-windows\ViewModel.pdb
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\ViewModel\bin\Debug\net6.0-windows\Model.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\ViewModel\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\ViewModel\obj\Debug\net6.0-windows\ViewModel.csproj.AssemblyReference.cache
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\ViewModel\obj\Debug\net6.0-windows\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\ViewModel\obj\Debug\net6.0-windows\ViewModel.AssemblyInfoInputs.cache
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\ViewModel\obj\Debug\net6.0-windows\ViewModel.AssemblyInfo.cs
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\ViewModel\obj\Debug\net6.0-windows\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\ViewModel\obj\Debug\net6.0-windows\ViewModel.csproj.CopyComplete
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\ViewModel\obj\Debug\net6.0-windows\ViewModel.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\ViewModel\obj\Debug\net6.0-windows\refint\ViewModel.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\ViewModel\obj\Debug\net6.0-windows\ViewModel.pdb
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\ViewModel\obj\Debug\net6.0-windows\ref\ViewModel.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\ViewModel\bin\Debug\net6.0-windows\ViewModel.deps.json
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\ViewModel\bin\Debug\net6.0-windows\ViewModel.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\ViewModel\bin\Debug\net6.0-windows\ViewModel.pdb
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\ViewModel\bin\Debug\net6.0-windows\Model.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\ViewModel\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\ViewModel\obj\Debug\net6.0-windows\ViewModel.csproj.AssemblyReference.cache
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\ViewModel\obj\Debug\net6.0-windows\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\ViewModel\obj\Debug\net6.0-windows\ViewModel.AssemblyInfoInputs.cache
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\ViewModel\obj\Debug\net6.0-windows\ViewModel.AssemblyInfo.cs
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\ViewModel\obj\Debug\net6.0-windows\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\ViewModel\obj\Debug\net6.0-windows\ViewModel.csproj.CopyComplete
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\ViewModel\obj\Debug\net6.0-windows\ViewModel.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\ViewModel\obj\Debug\net6.0-windows\refint\ViewModel.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\ViewModel\obj\Debug\net6.0-windows\ViewModel.pdb
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\ViewModel\obj\Debug\net6.0-windows\ref\ViewModel.dll

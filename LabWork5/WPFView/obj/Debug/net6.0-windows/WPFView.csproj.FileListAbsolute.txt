@@ -1,0 +1,96 @@
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\WPFView.exe
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\WPFView.deps.json
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\WPFView.runtimeconfig.json
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\WPFView.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\WPFView.pdb
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\CommonServiceLocator.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\ZedGraph.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\de\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\es\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\fr\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\hu\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\it\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\ja\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\pt\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\ru\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\sk\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\sv\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\tr\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\zh-cn\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\zh-tw\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\Model.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\ViewModel.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\ViewModel.pdb
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\obj\Debug\net6.0-windows\WPFView.csproj.AssemblyReference.cache
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\obj\Debug\net6.0-windows\WPFView_MarkupCompile.cache
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\obj\Debug\net6.0-windows\WPFView.g.resources
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\obj\Debug\net6.0-windows\WPFView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\obj\Debug\net6.0-windows\WPFView.AssemblyInfoInputs.cache
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\obj\Debug\net6.0-windows\WPFView.AssemblyInfo.cs
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\obj\Debug\net6.0-windows\WPFView.csproj.CoreCompileInputs.cache
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\obj\Debug\net6.0-windows\WPFView.csproj.CopyComplete
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\obj\Debug\net6.0-windows\WPFView.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\obj\Debug\net6.0-windows\refint\WPFView.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\obj\Debug\net6.0-windows\WPFView.pdb
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\obj\Debug\net6.0-windows\WPFView.genruntimeconfig.cache
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\WPFView\obj\Debug\net6.0-windows\ref\WPFView.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\WPFView.exe
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\WPFView.deps.json
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\WPFView.runtimeconfig.json
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\WPFView.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\WPFView.pdb
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\Model.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\ViewModel.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\ViewModel.pdb
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\obj\Debug\net6.0-windows\WPFView.csproj.AssemblyReference.cache
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\obj\Debug\net6.0-windows\WPFView_MarkupCompile.cache
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\obj\Debug\net6.0-windows\WPFView.g.resources
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\obj\Debug\net6.0-windows\WPFView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\obj\Debug\net6.0-windows\WPFView.AssemblyInfoInputs.cache
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\obj\Debug\net6.0-windows\WPFView.AssemblyInfo.cs
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\obj\Debug\net6.0-windows\WPFView.csproj.CoreCompileInputs.cache
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\obj\Debug\net6.0-windows\WPFView.csproj.CopyComplete
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\obj\Debug\net6.0-windows\WPFView.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\obj\Debug\net6.0-windows\refint\WPFView.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\obj\Debug\net6.0-windows\WPFView.pdb
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\obj\Debug\net6.0-windows\WPFView.genruntimeconfig.cache
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\obj\Debug\net6.0-windows\ref\WPFView.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\CommonServiceLocator.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\WPFView\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
