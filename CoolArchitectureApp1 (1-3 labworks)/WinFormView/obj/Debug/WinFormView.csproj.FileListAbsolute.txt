@@ -1,0 +1,171 @@
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\WinFormView.exe.config
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\WinFormView.exe
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\WinFormView.pdb
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\Business Logic.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\ZedGraph.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\Model.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\Business Logic.pdb
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\ZedGraph.xml
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\Model.pdb
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\de\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\es\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\fr\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\hu\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\it\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\ja\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\pt\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\ru\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\sk\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\sv\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\tr\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\zh-cn\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\zh-tw\ZedGraph.resources.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.csproj.AssemblyReference.cache
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.csproj.SuggestedBindingRedirects.cache
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.Properties.Resources.resources
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.csproj.GenerateResource.cache
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.csproj.CoreCompileInputs.cache
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.csproj.CopyComplete
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.exe
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.pdb
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.Form1.resources
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormsView.Statistic.resources
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\Dapper.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\EntityFramework.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\EntityFramework.SqlServer.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\DataAccessLayer.dll
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\Business Logic.dll.config
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\Model.dll.config
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\Dapper.xml
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\EntityFramework.xml
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\EntityFramework.SqlServer.xml
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\DataAccessLayer.pdb
+P:\C#\redo\labworks-3-semester\CoolArchitectureApp1\WinFormView\bin\Debug\DataAccessLayer.dll.config
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\WinFormView.exe.config
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\WinFormView.exe
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\WinFormView.pdb
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\Business Logic.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\Dapper.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\EntityFramework.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\EntityFramework.SqlServer.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\Model.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\ZedGraph.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\DataAccessLayer.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\Business Logic.pdb
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\Business Logic.dll.config
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\Model.pdb
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\Model.dll.config
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\Dapper.xml
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\EntityFramework.xml
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\EntityFramework.SqlServer.xml
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\ZedGraph.xml
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\DataAccessLayer.pdb
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\DataAccessLayer.dll.config
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\de\ZedGraph.resources.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\es\ZedGraph.resources.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\fr\ZedGraph.resources.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\hu\ZedGraph.resources.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\it\ZedGraph.resources.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\ja\ZedGraph.resources.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\pt\ZedGraph.resources.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\ru\ZedGraph.resources.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\sk\ZedGraph.resources.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\sv\ZedGraph.resources.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\tr\ZedGraph.resources.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\zh-cn\ZedGraph.resources.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\zh-tw\ZedGraph.resources.dll
+P:\C#\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.csproj.AssemblyReference.cache
+P:\C#\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.csproj.SuggestedBindingRedirects.cache
+P:\C#\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.Form1.resources
+P:\C#\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.Properties.Resources.resources
+P:\C#\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormsView.Statistic.resources
+P:\C#\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.csproj.GenerateResource.cache
+P:\C#\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.csproj.CoreCompileInputs.cache
+P:\C#\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.csproj.CopyComplete
+P:\C#\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.exe
+P:\C#\CoolArchitectureApp1\WinFormView\obj\Debug\WinFormView.pdb
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\Microsoft.Web.Infrastructure.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\Ninject.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\Ninject.Web.Common.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\Ninject.Web.Common.WebHost.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\Ninject.Web.Mvc.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\System.Web.Helpers.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\System.Web.Mvc.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\System.Web.Razor.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\System.Web.WebPages.Deployment.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\System.Web.WebPages.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\System.Web.WebPages.Razor.dll
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\Ninject.xml
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\Ninject.Web.Common.xml
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\Ninject.Web.Common.WebHost.xml
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\Ninject.Web.Mvc.xml
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\System.Web.Helpers.xml
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\System.Web.Mvc.xml
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\System.Web.Razor.xml
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\System.Web.WebPages.xml
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\System.Web.WebPages.Deployment.xml
+P:\C#\CoolArchitectureApp1\WinFormView\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\WinFormView.exe.config
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\WinFormView.exe
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\WinFormView.pdb
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\Business Logic.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\Dapper.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\EntityFramework.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\Model.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\Ninject.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\Ninject.Web.Common.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\Ninject.Web.Common.WebHost.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\System.Web.Helpers.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\System.Web.Mvc.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\System.Web.Razor.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\System.Web.WebPages.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\ZedGraph.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\DataAccessLayer.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\Business Logic.pdb
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\Business Logic.dll.config
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\Model.pdb
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\Model.dll.config
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\Dapper.xml
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\EntityFramework.xml
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\Ninject.xml
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\Ninject.Web.Common.xml
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\Ninject.Web.Common.WebHost.xml
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\System.Web.Helpers.xml
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\System.Web.Mvc.xml
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\System.Web.Razor.xml
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\System.Web.WebPages.xml
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\ZedGraph.xml
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\DataAccessLayer.pdb
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\DataAccessLayer.dll.config
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\obj\Debug\WinFormView.csproj.AssemblyReference.cache
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\obj\Debug\WinFormView.csproj.SuggestedBindingRedirects.cache
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\obj\Debug\WinFormView.Form1.resources
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\obj\Debug\WinFormView.Properties.Resources.resources
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\obj\Debug\WinFormsView.Statistic.resources
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\obj\Debug\WinFormView.csproj.GenerateResource.cache
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\obj\Debug\WinFormView.csproj.CoreCompileInputs.cache
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\obj\Debug\WinFormView.csproj.CopyComplete
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\obj\Debug\WinFormView.exe
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\CoolArchitectureApp1 (1-3 labworks)\WinFormView\obj\Debug\WinFormView.pdb
