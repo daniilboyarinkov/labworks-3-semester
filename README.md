@@ -2,6 +2,29 @@
 
 C#. Архитектура. Паттерны. Лабы.
 
+![chill man it's over](https://media0.giphy.com/media/d7nKqB3eqrq0IJRjnV/giphy.gif?cid=ecf05e476bv8o2m2arijdu41i12unfuj7hp5yx0vl5k5zd2q&rid=giphy.gif&ct=g)
+
+<!-- ------------------------------------------ -->
+
+## Лабораторная № 6
+
+Прекрасная в реализации лабораторная 
+
+***тык на ссылку***  
+[Задание 6 лабораторной](Assets/6.pdf)
+
++ Структурный паттерн "Декоратор"
++ Поведенченский паттерн "Стратегия"
+
+### Реализация:  
+
+***тык на ссылку***  
+[Реализация 6 лабораторной](https://github.com/daniilboyarinkov/labworks-3-semester/tree/6-decorator-strategy-patterns)
+
+### Картиночки:
+
+![view](Assets/6/1.jpg)
+
 <!-- ------------------------------------------ -->
 
 ## Лабораторная № 5
