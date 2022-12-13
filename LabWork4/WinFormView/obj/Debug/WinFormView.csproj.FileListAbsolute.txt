@@ -1,0 +1,68 @@
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\obj\Debug\WinFormView.csproj.AssemblyReference.cache
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\obj\Debug\WinFormView.csproj.SuggestedBindingRedirects.cache
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\obj\Debug\WinFormView.GistoForm.resources
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\obj\Debug\WinFormView.MainForm.resources
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\obj\Debug\WinFormView.Properties.Resources.resources
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\obj\Debug\WinFormView.csproj.GenerateResource.cache
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\obj\Debug\WinFormView.csproj.CoreCompileInputs.cache
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\bin\Debug\WinFormView.exe.config
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\bin\Debug\WinFormView.exe
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\bin\Debug\WinFormView.pdb
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\bin\Debug\Model.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\bin\Debug\Presenter.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\bin\Debug\SharedView.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\bin\Debug\ZedGraph.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\bin\Debug\Model.pdb
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\bin\Debug\Presenter.pdb
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\bin\Debug\SharedView.pdb
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\bin\Debug\ZedGraph.xml
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\obj\Debug\WinFormView.csproj.CopyComplete
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\obj\Debug\WinFormView.exe
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\WinFormView\obj\Debug\WinFormView.pdb
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\bin\Debug\WinFormView.exe.config
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\bin\Debug\WinFormView.exe
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\bin\Debug\WinFormView.pdb
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\bin\Debug\Model.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\bin\Debug\Presenter.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\bin\Debug\SharedView.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\bin\Debug\ZedGraph.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\bin\Debug\Model.pdb
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\bin\Debug\Presenter.pdb
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\bin\Debug\SharedView.pdb
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\bin\Debug\ZedGraph.xml
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\obj\Debug\WinFormView.csproj.AssemblyReference.cache
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\obj\Debug\WinFormView.csproj.SuggestedBindingRedirects.cache
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\obj\Debug\WinFormView.GistoForm.resources
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\obj\Debug\WinFormView.MainForm.resources
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\obj\Debug\WinFormView.Properties.Resources.resources
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\obj\Debug\WinFormView.csproj.GenerateResource.cache
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\obj\Debug\WinFormView.csproj.CoreCompileInputs.cache
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\obj\Debug\WinFormView.csproj.CopyComplete
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\obj\Debug\WinFormView.exe
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\WinFormView\obj\Debug\WinFormView.pdb
