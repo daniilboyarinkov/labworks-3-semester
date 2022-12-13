@@ -1,0 +1,24 @@
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\Model\bin\Debug\net6.0-windows\Model.deps.json
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\Model\bin\Debug\net6.0-windows\Model.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\Model\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\Model\obj\Debug\net6.0-windows\Model.csproj.AssemblyReference.cache
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\Model\obj\Debug\net6.0-windows\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\Model\obj\Debug\net6.0-windows\Model.AssemblyInfoInputs.cache
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\Model\obj\Debug\net6.0-windows\Model.AssemblyInfo.cs
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\Model\obj\Debug\net6.0-windows\Model.csproj.CoreCompileInputs.cache
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\Model\obj\Debug\net6.0-windows\Model.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\Model\obj\Debug\net6.0-windows\refint\Model.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\Model\obj\Debug\net6.0-windows\Model.pdb
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork5\Model\obj\Debug\net6.0-windows\ref\Model.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\Model\bin\Debug\net6.0-windows\Model.deps.json
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\Model\bin\Debug\net6.0-windows\Model.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\Model\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\Model\obj\Debug\net6.0-windows\Model.csproj.AssemblyReference.cache
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\Model\obj\Debug\net6.0-windows\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\Model\obj\Debug\net6.0-windows\Model.AssemblyInfoInputs.cache
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\Model\obj\Debug\net6.0-windows\Model.AssemblyInfo.cs
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\Model\obj\Debug\net6.0-windows\Model.csproj.CoreCompileInputs.cache
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\Model\obj\Debug\net6.0-windows\Model.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\Model\obj\Debug\net6.0-windows\refint\Model.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\Model\obj\Debug\net6.0-windows\Model.pdb
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork5\Model\obj\Debug\net6.0-windows\ref\Model.dll
