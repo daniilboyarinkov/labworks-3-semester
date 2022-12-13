@@ -1,0 +1,22 @@
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\Presenter\obj\Debug\Presenter.csproj.AssemblyReference.cache
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\Presenter\obj\Debug\Presenter.csproj.CoreCompileInputs.cache
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\Presenter\bin\Debug\Presenter.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\Presenter\bin\Debug\Presenter.pdb
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\Presenter\bin\Debug\Model.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\Presenter\bin\Debug\SharedView.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\Presenter\bin\Debug\Model.pdb
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\Presenter\bin\Debug\SharedView.pdb
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\Presenter\obj\Debug\Presenter.csproj.CopyComplete
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\Presenter\obj\Debug\Presenter.dll
+C:\Users\sudlenia\Desktop\work\proga\EventLab (2)\LabWork4\LabWork4\Presenter\obj\Debug\Presenter.pdb
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\Presenter\bin\Debug\Presenter.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\Presenter\bin\Debug\Presenter.pdb
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\Presenter\bin\Debug\Model.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\Presenter\bin\Debug\SharedView.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\Presenter\bin\Debug\Model.pdb
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\Presenter\bin\Debug\SharedView.pdb
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\Presenter\obj\Debug\Presenter.csproj.AssemblyReference.cache
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\Presenter\obj\Debug\Presenter.csproj.CoreCompileInputs.cache
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\Presenter\obj\Debug\Presenter.csproj.CopyComplete
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\Presenter\obj\Debug\Presenter.dll
+C:\Users\sudlenia\Desktop\labworks\labworks-3-semester\LabWork4\Presenter\obj\Debug\Presenter.pdb
